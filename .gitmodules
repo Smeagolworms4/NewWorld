@@ -1,0 +1,3 @@
+[submodule "Class.js"]
+	path = Class.js
+	url = https://github.com/GollumJS/Class.js.git
